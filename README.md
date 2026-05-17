@@ -8,10 +8,8 @@
 - Business Projects: business data visualization user interface custom desktop application
 - Personal Projects: automated file explorer for mass data file cleaning and storage, desktop analytic application for custom data visualization, customer map userinterface.
 
-## My Stats
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" ></image-card>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-## Connect with me
+## Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrencewillcox)
 
