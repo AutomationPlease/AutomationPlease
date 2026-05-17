@@ -1,4 +1,4 @@
-# Hi there, I'm [Lawrence Willcox]
+# Hi there, I'm Lawrence Willcox
 
 ## About Me:
 - I'm currently working in business operations focusing on automation, forecasting, and analytics.
