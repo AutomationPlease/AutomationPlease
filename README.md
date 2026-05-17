@@ -8,9 +8,5 @@
 - Business Projects: business data visualization user interface custom desktop application
 - Personal Projects: automated file explorer for mass data file cleaning and storage, desktop analytic application for custom data visualization, customer map userinterface.
 
-<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutomationPlease&layout=compact&theme=radical" ></image-card>
-
-
 ## Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrencewillcox)
-
