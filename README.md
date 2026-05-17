@@ -10,7 +10,6 @@
 
 <image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutomationPlease&layout=compact&theme=radical" ></image-card>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=automationplease)](https://github.com/automationplease/github-readme-stats)
 
 ## Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrencewillcox)
