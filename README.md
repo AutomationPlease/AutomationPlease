@@ -11,7 +11,7 @@
 
 ## Topics & Technologies
 
-**Specialties:**
+**Core Specialties:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-Qt-blue)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
