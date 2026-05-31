@@ -19,12 +19,14 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-512BD4?logo=visualstudio&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-7B2D8E)
 
 
 **Learning / Working Knowledge:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C)
 
 
 
