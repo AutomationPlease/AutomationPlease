@@ -3,10 +3,10 @@
 
 ## About Me
 - **Current Focus**: Building custom desktop applications and automation tools to improve supply chain visibility, planning, and decision-making.
-- **Languages & Tools**: Python, SQL, PySide6/PyQt6, pandas, VBA, SAP scripting, **HTML, CSS & JavaScript** (learning).
+- **Languages & Tools**: Python, SQL, PySide6/PyQt6, pandas, VBA, SAP scripting, [ **HTML, CSS & JavaScript** (learning) ].
 - **Specialties**: Desktop GUI development, ETL pipelines, data visualization, KPI dashboards, and supply chain systems.
 - **Notable Project**: Designed and developed **Supply Chain Dashboard**, a full-featured PySide6 supply chain analytics desktop application featuring real-time dashboards, interactive customer mapping (Folium + Leaflet.js), and configurable data integration.
-- **Open to Opportunities**: Actively seeking Supply Chain Systems / Data Engineering roles in Austin, TX (willing to relocate).
+- **Open to Opportunities**: Actively seeking Supply Chain Systems / Data Engineering roles in TX (willing to relocate).
 
 
 ## Topics & Technologies
