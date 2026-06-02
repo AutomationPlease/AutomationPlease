@@ -27,7 +27,7 @@ Open to opportunities in **AI Solutions, Automation Engineering, or AI-augmented
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrencewillcox)
 
-## Core Specialities:
+## Core Specialities
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-Qt-blue)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
@@ -35,10 +35,10 @@ Open to opportunities in **AI Solutions, Automation Engineering, or AI-augmented
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-512BD4?logo=visualstudio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
 ![VBA](https://img.shields.io/badge/VBA-7B2D8E)
 
-
-## Learning:
+## Learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
