@@ -1,42 +1,71 @@
-# Lawrence Willcox | Automation + Agentic AI Systems
+# Lawrence Willcox
 
-**Building reliable, stateful multi-agent LLM systems and practical data automation tools for engineering and supply chain workflows.**
+**Supply Chain Automation & Analytics Specialist**  
+Building practical data pipelines, automated reporting systems, and intelligent tools that improve visibility and decision-making in complex operations.
 
-## Current Focus
-- **Agentic AI & LLM Orchestration** with LangGraph and LangChain (supervisor agents, ReAct loops, tool calling, persistence, human-in-the-loop)
-- **Practical RAG systems** over real business data (especially Excel/structured data)
-- Production patterns: state management, observability, structured outputs, and reliable workflows
+- [LinkedIn](https://www.linkedin.com/in/lawrencewillcox)
+- Dallas-Fort Worth / Austin, Texas
+- lawrencewillcox@gmail.com
 
-- ## Previous Work (Still Active)
-- Supply Chain Dashboard (PySide6 + interactive mapping)
-- Various Python & VBA automation tools
+---
+
+## What I Build
+
+I design and develop **production grade automation and analytics solutions** that turn manual, fragmented processes into reliable, self running systems.
+
+My work focuses on:
+- **Python based ETL pipelines** and data transformation for large operational datasets
+- **Custom dashboards and reporting tools** (including PySide6 desktop applications)
+- **Process automation** across ERP systems (especially SAP)
+- **KPI development** and exception based reporting that drive real operational decisions
+
+I combine strong technical execution with deep domain knowledge in procurement, inventory, demand planning, and supply chain operations.
+
+---
+
+## Featured Projects
+
+### Supply Chain Analytics Dashboard
+**PySide6 desktop application** that consolidates fragmented Excel and SAP data into interactive inventory, demand planning, and geospatial dashboards.  
+Handles 500k+ rows with high performance combination use of pandas and numpy processing, dynamic filtering, charts, and maps. Built to replace slow manual Excel workflows for procurement and planning teams.
+
+→ [View Project](https://github.com/AutomationPlease/Supply-Chain-Dashboard)
+
+### Multi-Agent LLM Systems
+Production pattern **agentic AI systems** built with LangGraph and LangChain. Features supervisor based delegation to specialized agents, stateful workflows, tool calling, and human in the loop patterns. Focused on reliable orchestration for data analysis and knowledge work automation.
+
+→ [View Project](https://github.com/AutomationPlease/langgraph-multi-agent-system)
+
+### Automation Tools (Python & VBA)
+Collection of practical automation scripts and tools developed for engineering and supply chain workflows, including SAP GUI automation, data extraction, and recurring process automation.
+
+→ [Automation Tools (Python)](https://github.com/AutomationPlease/Automation_Tools_Python)  
+→ [Automation Tools (VBA)](https://github.com/AutomationPlease/Automation_Tools_VBA)
+
+---
 
 ## Tech Stack
-**Agentic/LLM**: LangGraph, LangChain, LlamaIndex, OpenAI, Anthropic, Tavily  
-**Data & Automation**: Python, Pandas, PySide6/PyQt6, SQL  
-**Other**: Rich (terminal UI), structured outputs, prompt engineering
 
-## What I'm Learning / Building Next
-- Connecting specialist agents in the requirements system
-- Adding human-in-the-loop approval steps
-- LangSmith for tracing + evaluation
-- Simple web interfaces (Streamlit/Gradio) on top of agents
+**Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6), SQL, VBA  
+**Automation & Systems:** SAP GUI scripting, ETL pipelines, workflow automation  
+**Data & Analytics:** Data modeling, KPI development, dashboard creation, exception reporting  
+**Currently Exploring:** LangGraph, LangChain, multi-agent systems, RAG over structured business data
 
-Open to opportunities in **AI Solutions, Automation Engineering, or AI-augmented Requirements/Process Automation** especially in manufacturing, supply chain, or engineering tools.
-##
-**Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrencewillcox)
+---
 
-**Core Specialities:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
-![VBScript](https://img.shields.io/badge/VBScript-512BD4?logo=visualstudio&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
-![VBA](https://img.shields.io/badge/VBA-7B2D8E)
+## Currently Exploring
 
-**Learning:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+I'm actively building **agentic AI systems** and intelligent automation tools on the side. My focus is on creating reliable, observable, production oriented multi-agent workflows that can augment real business processes, especially in data-heavy operational environments.
+
+All agentic AI work is developed in my personal time and is separate from my professional role.
+
+---
+
+## Let's Connect
+
+I'm always interested in conversations around:
+- Supply chain analytics and automation
+- Building practical, production grade data tools
+- Agentic AI systems and intelligent workflow automation
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lawrencewillcox) or via email.
