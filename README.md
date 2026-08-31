@@ -12,7 +12,7 @@ I design and develop **production grade automation and analytics solutions** tha
 
 My work focuses on:
 - **Python based ETL pipelines** and data transformation for large operational datasets
-- **Custom dashboards and reporting tools** (including PySide6 desktop applications)
+- **Custom dashboards and reporting tools** (including Streamlit and PySide6 desktop applications)
 - **Process automation** across ERP systems (especially SAP)
 - **KPI development** and exception based reporting that drive real operational decisions
 
@@ -39,7 +39,7 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 → [Automation Tools (VBA)](https://github.com/AutomationPlease/Automation_Tools_VBA)
 
 # Tech Stack
-**Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6), SQL, VBA  
+**Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA  
 **Automation & Systems:** SAP GUI scripting, ETL pipelines, workflow automation  
 **Data & Analytics:** Data modeling, KPI development, dashboard creation, exception reporting  
 **Currently Exploring:** LangGraph, LangChain, multi-agent systems, RAG over structured business data
