@@ -39,7 +39,7 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 ### Automation Tools (Python, VBA)
  - Collection of practical automation scripts and tools developed for engineering and supply chain workflows, including SAP GUI automation, data extraction, and recurring process automation.
 
-→ [Automation Tools (MS365, SAP, Windows)](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)  
+→ [Automation Tools](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)  
 
 # Tech Stack
 **Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA  
