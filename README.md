@@ -30,9 +30,13 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 ### Multi-Agent LLM Systems
  - Production pattern **agentic AI systems** built with LangGraph and LangChain. Features supervisor based delegation to specialized agents, stateful workflows, tool calling, and human in the loop patterns. Focused on reliable orchestration for data analysis and knowledge work automation.
 
+→ [View Project (unrestricted agents, non enterprise build)](https://github.com/AutomationPlease/langgraph-multi-agent-system)
+→ [View Project (safety restricted agents, enterprise build](https://github.com/AutomationPlease/Multi_Agent_System_Data_Analyst_Enterprise_Build)
+
+
 → [View Project](https://github.com/AutomationPlease/langgraph-multi-agent-system)
 
-### Automation Tools (Python & VBA)
+### Automation Tools (Python, VBA, SAP Scripting)
  - Collection of practical automation scripts and tools developed for engineering and supply chain workflows, including SAP GUI automation, data extraction, and recurring process automation.
 
 → [Automation Tools (MS365, SAP, Windows)](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)  
