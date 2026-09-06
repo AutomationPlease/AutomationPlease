@@ -19,26 +19,29 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 
 # Featured Projects
 
-### Supply Chain Analytics Dashboard (Python)
-**PySide6 desktop application** that consolidates fragmented Excel and SAP data into interactive inventory, demand planning, and geospatial dashboards.  
+### Supply Chain Analytics Dashboard
+*Made With: Python*
+ - **PySide6 desktop application** that consolidates fragmented Excel and SAP data into interactive inventory, demand planning, and geospatial dashboards.  
  - Handles 500k+ rows with high performance combination use of pandas and numpy processing, dynamic filtering, charts, and maps. Built to replace slow manual Excel workflows for procurement and planning teams.
 
 → [View Project](https://github.com/AutomationPlease/Supply-Chain-Dashboard)
 
-### Multi-Agent LLM Systems (Python, Docker, PostgreSQL)
+### Multi-Agent LLM Systems
+*Made With: Python, Docker, PostgreSQL*
  - Production pattern **agentic AI systems** built with LangGraph and LangChain. Features supervisor based delegation to specialized agents, stateful workflows, tool calling, and human in the loop patterns. Focused on reliable orchestration for data analysis and knowledge work automation.
 
 → [View Project (unrestricted agents, non enterprise build)](https://github.com/AutomationPlease/langgraph-multi-agent-system)
 
 → [View Project (safety restricted agents, enterprise build)](https://github.com/AutomationPlease/Multi_Agent_System_Data_Analyst_Enterprise_Build)
 
-### Automation Tools (Python, VBA, PS, VBS)
+### Automation Tools
+*Made With: Python, VBA, PS, VBS, Batch*
  - Collection of automated business workflows I've developed and implemented that can be used as templates for automating business applications such as: Microsoft365 apps and environments, SAP (ECC/S4HANA/Fiori/IBP/OnDemand), and Windows OS.
 
 → [View Project](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)  
 
 # Tech Stack
-**Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA 
+**Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA
 **Automation & Systems:** SAP GUI scripting, ETL pipelines, workflow automation  
 **Data & Analytics:** Data modeling, KPI development, dashboard creation, exception reporting  
 **Currently Exploring:** LangGraph, LangChain, multi-agent systems, RAG over structured business data
