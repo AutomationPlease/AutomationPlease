@@ -30,15 +30,19 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 *Made With: Python, Docker, PostgreSQL*
  - Production pattern **agentic AI systems** built with LangGraph and LangChain. Features supervisor based delegation to specialized agents, stateful workflows, tool calling, and human in the loop patterns. Focused on reliable orchestration for data analysis and knowledge work automation.
 
-→ [View Project (unrestricted agents, non enterprise build)](https://github.com/AutomationPlease/langgraph-multi-agent-system)
-
+→ [View Project (unrestricted agents, non enterprise build)](https://github.com/AutomationPlease/langgraph-multi-agent-system)<br>
 → [View Project (safety restricted agents, enterprise build)](https://github.com/AutomationPlease/Multi_Agent_System_Data_Analyst_Enterprise_Build)
 
 ### Automation Tools
 *Made With: Python, VBA, PS, VBS, Batch*
  - Collection of automated business workflows I've developed and implemented that can be used as templates for automating business applications such as: Microsoft365 apps and environments, SAP (ECC/S4HANA/Fiori/IBP/OnDemand), and Windows OS.
 
-→ [View Project](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)  
+→ [View Main Projects Folder](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)<br>
+→ [View Python Projects Folder](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools/Python_Workflows)<br>
+→ [View SAP Projects Folder](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools/SAP_Application_Tools)<br>
+→ [View VBA Projects Folder](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools/VBA_Workflows)<br>
+→ [View Outlook Projects Folder](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools/Outlook_Application_Tools)<br>
+→ [View Excel Projects Folder](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools/Excel_Application_Tools)<br>
 
 # Tech Stack
 **Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA<br>
