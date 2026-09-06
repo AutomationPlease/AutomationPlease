@@ -41,10 +41,10 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 → [View Project](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)  
 
 # Tech Stack
-**Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA
-**Automation & Systems:** SAP GUI scripting, ETL pipelines, workflow automation  
-**Data & Analytics:** Data modeling, KPI development, dashboard creation, exception reporting  
-**Currently Exploring:** LangGraph, LangChain, multi-agent systems, RAG over structured business data
+**Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA<br>
+**Automation & Systems:** SAP GUI scripting, ETL pipelines, workflow automation<br>
+**Data & Analytics:** Data modeling, KPI development, dashboard creation, exception reporting<br>
+**Currently Exploring:** LangGraph, LangChain, multi-agent systems, RAG over structured business data<br>
 
 # Currently Exploring
 I'm actively building **agentic AI systems** and intelligent automation tools on the side. My focus is on creating reliable, observable, production oriented multi-agent workflows that can augment real business processes, especially in data-heavy operational environments.
