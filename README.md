@@ -42,6 +42,7 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 
 # Tech Stack
 **Core:** Python (pandas, numpy, openpyxl, PySide6/PyQt6, Streamlit), SQL, VBA
+
 **Automation & Systems:** SAP GUI scripting, ETL pipelines, workflow automation  
 **Data & Analytics:** Data modeling, KPI development, dashboard creation, exception reporting  
 **Currently Exploring:** LangGraph, LangChain, multi-agent systems, RAG over structured business data
