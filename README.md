@@ -6,7 +6,6 @@ Building practical data pipelines, automated reporting systems, and intelligent 
 - Dallas-Fort Worth / Austin, Texas
 - lawrencewillcox@gmail.com
 
-
 # What I Build
 I design and develop **production grade automation and analytics solutions** that turn manual, fragmented processes into reliable, self running systems.
 
@@ -17,7 +16,6 @@ My work focuses on:
 - **KPI development** and exception based reporting that drive real operational decisions
 
 I combine strong technical execution with deep domain knowledge in procurement, inventory, demand planning, and supply chain operations.
-
 
 # Featured Projects
 
@@ -35,7 +33,7 @@ I combine strong technical execution with deep domain knowledge in procurement, 
 → [View Project (safety restricted agents, enterprise build)](https://github.com/AutomationPlease/Multi_Agent_System_Data_Analyst_Enterprise_Build)
 
 ### Automation Tools (Python, VBA)
- - Collection of practical automation scripts and tools developed for engineering and supply chain workflows, including SAP GUI automation, data extraction, and recurring process automation.
+ - Collection of automated business workflows I've developed and implemented that can be used as templates for automating business applications such as: Microsoft365 apps and environments, SAP (ECC/S4HANA/Fiori/IBP/OnDemand), and Windows OS.
 
 → [View Project](https://github.com/AutomationPlease/MS365_SAP_Windows_Automated_Workflow_Tools)  
 
